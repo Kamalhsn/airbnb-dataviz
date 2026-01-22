@@ -1,4 +1,4 @@
-# Airbnb Data Visualization Capstone
+# Airbnb Data Visualization 
 
 ## Project Overview
 
