@@ -74,20 +74,19 @@ The datasets include information such as:
 airbnb-dataviz/
 │
 ├── data/
-│ ├── berlin/
-│ ├── bangkok/
+│   ├── berlin/
+│   ├── bangkok/
 │
 ├── notebooks/
-│ ├── 01_data_understanding.ipynb
-│ ├── 02_data_cleaning.ipynb
-│ ├── 03_eda.ipynb
-│ ├── 04_feature_engineering.ipynb
+│   ├── 01_data_understanding.ipynb
+│   ├── 02_data_cleaning.ipynb
+│   ├── 03_eda.ipynb
+│   ├── 04_feature_engineering.ipynb
 │
 ├── dashboards/
-│ └── airbnb_berlin_bangkok.pbix
+│   └── airbnb_berlin_bangkok.pbix
 │
-├── README.md
-
+└── README.md
 
 ---
 
