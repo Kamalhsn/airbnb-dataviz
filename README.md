@@ -66,6 +66,8 @@ The datasets include information such as:
 - **Git & GitHub**
   - Version control
   - Project documentation and reproducibility
+ 
+## Project Structure
 
 ```text
 airbnb-dataviz/
@@ -79,8 +81,10 @@ airbnb-dataviz/
 │   └── 04_feature_engineering.ipynb
 ├── dashboards/
 │   └── airbnb_berlin_bangkok.pbix
+├── requirements.txt
 └── README.md
 ```
+
 
 
 ## Methodology
